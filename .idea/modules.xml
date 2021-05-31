@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeckView.iml" filepath="$PROJECT_DIR$/.idea/modules/DeckView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/deckview/DeckView.deckview.iml" filepath="$PROJECT_DIR$/.idea/modules/deckview/DeckView.deckview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/deckviewsample/DeckView.deckviewsample.iml" filepath="$PROJECT_DIR$/.idea/modules/deckviewsample/DeckView.deckviewsample.iml" />
+    </modules>
+  </component>
+</project>

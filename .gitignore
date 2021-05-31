@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/deckview/build/
+/deckview/build/intermediates/javac/debug/classes/
